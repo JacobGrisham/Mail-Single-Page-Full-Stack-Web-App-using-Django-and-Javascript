@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+}
+
+#list-tab {
+    height: 95vh;
+    overflow-y: scroll;
+}
+
+.unread {
+    border-left: 6px solid #007bff !important;
+}
